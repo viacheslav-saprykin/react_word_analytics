@@ -1,8 +1,34 @@
-# React + Vite
+# Byte Word Analytics 📝
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Project Description
 
-Currently, two official plugins are available:
+**Byte Word Analytics** is a web application built with **React, Vite, and JavaScript** that analyzes input text. It helps users:
+- Count the number of **characters** and **words**.
+- Determine how much text can still be added for an **Instagram** post (up to **280** characters).
+- Determine how much text can still be added for a **Facebook** post (up to **2200** characters).
+- If the limit for Instagram or Facebook **reaches 0 or below**, the value is highlighted **in red**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔧 Project Structure
+
+This project is well-organized:
+- **Constants are separated** into a dedicated file (`constants.js`) to maintain clean code.
+- **Components are structured independently**, making the project scalable and easier to maintain.
+
+## 🛠️ Technologies Used
+
+- **React** `^18.2.0`
+- **Vite** `^4.4.5`
+- **JavaScript**
+- **ESLint** for code consistency
+
+## 🚀 How to Run the Project
+
+1. **Clone the repository**:
+   git clone https://github.com/viacheslav-saprykin/byte_word_analytics
+   cd byte_word_analytics
+
+2. **Install dependencies**:
+  npm install
+
+3. **Start the development server**:
+  npm run dev
