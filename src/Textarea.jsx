@@ -1,13 +1,13 @@
 import { useState } from 'react';
 import TheWarning from './TheWarning';
 
-export default function Textarea() {
-  const [text, setText] = useState('');
+export default function Textarea({ text, setText }) {
   const [warningText, setWarningText] = useState('');
 
   const handleChange = (e) => {
     let newText = e.target.value;
-// basic validation
+
+    // basic validation
     if (newText.includes('<script>')) {
       setWarningText('No script tags allowed!');
       newText = newText.replace('<script>', '');
