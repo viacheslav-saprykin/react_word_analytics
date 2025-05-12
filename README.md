@@ -1,8 +1,8 @@
-# Byte Word Analytics 📝
+# Word Analytics 📝
 
 ## 📌 Project Description
 
-**Byte Word Analytics** is a web application built with **React, Vite, and JavaScript** that analyzes input text. It helps users:
+** Word Analytics** is a web application built with **React, Vite, and JavaScript** that analyzes input text. It helps users:
 - Count the number of **characters** and **words**.
 - Determine how much text can still be added for an **Instagram** post (up to **280** characters).
 - Determine how much text can still be added for a **Facebook** post (up to **2200** characters).
@@ -25,7 +25,6 @@ This project is well-organized:
 
 1. **Clone the repository**:
    git clone https://github.com/viacheslav-saprykin/byte_word_analytics
-   cd byte_word_analytics
 
 2. **Install dependencies**:
   npm install
