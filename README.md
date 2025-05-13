@@ -16,8 +16,8 @@ This project is well-organized:
 
 ## 🛠️ Technologies Used
 
-- **React** `^18.2.0`
-- **Vite** `^4.4.5`
+- **React**
+- **Vite**
 - **JavaScript**
 - **ESLint** for code consistency
 

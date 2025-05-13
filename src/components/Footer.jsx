@@ -5,7 +5,7 @@ export default function Footer() {
         &copy; Copyright by Viacheslav. All rights reserved.
       </small>
       <small>
-        Last checked limits: 17 days ago
+        Last checked limits: 11 days ago
       </small>
     </footer>
   )
