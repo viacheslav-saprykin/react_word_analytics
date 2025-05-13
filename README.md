@@ -32,3 +32,6 @@ This project is well-organized:
 
 3. **Start the development server**:
   npm run dev
+
+  ## 🔗 Live Demo
+[Try it here!](https://viacheslav-saprykin.github.io/react_word_analytics/) 
