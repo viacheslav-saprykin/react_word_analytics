@@ -24,7 +24,7 @@ This project is well-organized:
 ## 🚀 How to Run the Project
 
 1. **Clone the repository**:
-   git clone https://github.com/viacheslav-saprykin/byte_word_analytics
+   git clone https://github.com/viacheslav-saprykin/react_word_analytics
 
 2. **Install dependencies**:
   npm install
